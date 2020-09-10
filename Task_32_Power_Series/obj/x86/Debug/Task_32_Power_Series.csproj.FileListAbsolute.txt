@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_32_Power_Series\bin\Debug\Task_32_Power_Series.exe
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_32_Power_Series\bin\Debug\Task_32_Power_Series.pdb
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_32_Power_Series\obj\x86\Debug\Task_32_Power_Series.exe
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_32_Power_Series\obj\x86\Debug\Task_32_Power_Series.pdb
