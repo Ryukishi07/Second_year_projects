@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_41_Matrix_Algebra\bin\Debug\Task_41_Matrix_Algebra.exe
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_41_Matrix_Algebra\bin\Debug\Task_41_Matrix_Algebra.pdb
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_41_Matrix_Algebra\obj\x86\Debug\Task_41_Matrix_Algebra.exe
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_41_Matrix_Algebra\obj\x86\Debug\Task_41_Matrix_Algebra.pdb
