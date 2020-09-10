@@ -1,0 +1,59 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prostie_Chisla", "Prostie_Chisla\Prostie_Chisla.csproj", "{C9DCF78D-CFE2-4F5C-B45B-53788F70095C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_12", "Problem_12\Problem_12.csproj", "{8AC23728-04BC-4067-9192-AB2EFD1D0E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_21", "Problem_21\Problem_21.csproj", "{8F4AD0E7-9330-4DA4-983E-9F16E64FBEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_31_Series_2", "Task_31_Series_2\Task_31_Series_2.csproj", "{5EB3F667-31F6-4C96-8DB1-789B772A9ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_32_Power_Series", "Task_32_Power_Series\Task_32_Power_Series.csproj", "{3C8D7376-07AC-4714-B6AB-BCB25C1FF092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_41_Matrix_Algebra", "Task_41_Matrix_Algebra\Task_41_Matrix_Algebra.csproj", "{0A4FB249-0EFC-4F3B-957C-AF87C596DA98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_42", "Task_42_LU_Factorization\Problem_42.csproj", "{20760A68-2228-4100-9CFF-814401798DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_43", "Problem_43\Problem_43.csproj", "{065BB800-CE0B-4D35-9093-0FBD60C6D926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DCF78D-CFE2-4F5C-B45B-53788F70095C}.Debug|x86.ActiveCfg = Debug|x86
+		{C9DCF78D-CFE2-4F5C-B45B-53788F70095C}.Debug|x86.Build.0 = Debug|x86
+		{C9DCF78D-CFE2-4F5C-B45B-53788F70095C}.Release|x86.ActiveCfg = Release|x86
+		{C9DCF78D-CFE2-4F5C-B45B-53788F70095C}.Release|x86.Build.0 = Release|x86
+		{8AC23728-04BC-4067-9192-AB2EFD1D0E00}.Debug|x86.ActiveCfg = Debug|x86
+		{8AC23728-04BC-4067-9192-AB2EFD1D0E00}.Debug|x86.Build.0 = Debug|x86
+		{8AC23728-04BC-4067-9192-AB2EFD1D0E00}.Release|x86.ActiveCfg = Release|x86
+		{8AC23728-04BC-4067-9192-AB2EFD1D0E00}.Release|x86.Build.0 = Release|x86
+		{8F4AD0E7-9330-4DA4-983E-9F16E64FBEC1}.Debug|x86.ActiveCfg = Debug|x86
+		{8F4AD0E7-9330-4DA4-983E-9F16E64FBEC1}.Debug|x86.Build.0 = Debug|x86
+		{8F4AD0E7-9330-4DA4-983E-9F16E64FBEC1}.Release|x86.ActiveCfg = Release|x86
+		{8F4AD0E7-9330-4DA4-983E-9F16E64FBEC1}.Release|x86.Build.0 = Release|x86
+		{5EB3F667-31F6-4C96-8DB1-789B772A9ACE}.Debug|x86.ActiveCfg = Debug|x86
+		{5EB3F667-31F6-4C96-8DB1-789B772A9ACE}.Debug|x86.Build.0 = Debug|x86
+		{5EB3F667-31F6-4C96-8DB1-789B772A9ACE}.Release|x86.ActiveCfg = Release|x86
+		{5EB3F667-31F6-4C96-8DB1-789B772A9ACE}.Release|x86.Build.0 = Release|x86
+		{3C8D7376-07AC-4714-B6AB-BCB25C1FF092}.Debug|x86.ActiveCfg = Debug|x86
+		{3C8D7376-07AC-4714-B6AB-BCB25C1FF092}.Debug|x86.Build.0 = Debug|x86
+		{3C8D7376-07AC-4714-B6AB-BCB25C1FF092}.Release|x86.ActiveCfg = Release|x86
+		{3C8D7376-07AC-4714-B6AB-BCB25C1FF092}.Release|x86.Build.0 = Release|x86
+		{0A4FB249-0EFC-4F3B-957C-AF87C596DA98}.Debug|x86.ActiveCfg = Debug|x86
+		{0A4FB249-0EFC-4F3B-957C-AF87C596DA98}.Debug|x86.Build.0 = Debug|x86
+		{0A4FB249-0EFC-4F3B-957C-AF87C596DA98}.Release|x86.ActiveCfg = Release|x86
+		{0A4FB249-0EFC-4F3B-957C-AF87C596DA98}.Release|x86.Build.0 = Release|x86
+		{20760A68-2228-4100-9CFF-814401798DA6}.Debug|x86.ActiveCfg = Debug|x86
+		{20760A68-2228-4100-9CFF-814401798DA6}.Debug|x86.Build.0 = Debug|x86
+		{20760A68-2228-4100-9CFF-814401798DA6}.Release|x86.ActiveCfg = Release|x86
+		{20760A68-2228-4100-9CFF-814401798DA6}.Release|x86.Build.0 = Release|x86
+		{065BB800-CE0B-4D35-9093-0FBD60C6D926}.Debug|x86.ActiveCfg = Debug|x86
+		{065BB800-CE0B-4D35-9093-0FBD60C6D926}.Debug|x86.Build.0 = Debug|x86
+		{065BB800-CE0B-4D35-9093-0FBD60C6D926}.Release|x86.ActiveCfg = Release|x86
+		{065BB800-CE0B-4D35-9093-0FBD60C6D926}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

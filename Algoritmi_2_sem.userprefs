@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{20760A68-2228-4100-9CFF-814401798DA6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Problem__42 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Problem__43 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task_42_LU_Factorization\Program.cs">
+    <Files>
+      <File FileName="Task_42_LU_Factorization\Program.cs" Line="56" Column="20" />
+      <File FileName="Problem_43\Program.cs" Line="22" Column="15" />
+      <File FileName="Task_41_Matrix_Algebra\Program.cs" Line="343" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task__41__Matrix__Algebra PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Prostie__Chisla PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
