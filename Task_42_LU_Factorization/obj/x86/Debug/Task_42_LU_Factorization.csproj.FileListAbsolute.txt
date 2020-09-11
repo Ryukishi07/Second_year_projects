@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_42_LU_Factorization\obj\x86\Debug\Task_42_LU_Factorization.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_42_LU_Factorization\bin\Debug\Task_42_LU_Factorization.exe
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_42_LU_Factorization\bin\Debug\Task_42_LU_Factorization.pdb
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_42_LU_Factorization\bin\Debug\Task_41_Matrix_Algebra.exe
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_42_LU_Factorization\bin\Debug\Task_41_Matrix_Algebra.pdb
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_42_LU_Factorization\obj\x86\Debug\Task_42_LU_Factorization.exe
+C:\Users\Daniel\Desktop\C#(Xamarin)\Algoritmi_2_sem\Task_42_LU_Factorization\obj\x86\Debug\Task_42_LU_Factorization.pdb
